@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\bin\Debug\06NumberCalculations.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\obj\Debug\06NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\bin\Debug\06NumberCalculations.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\bin\Debug\06NumberCalculations.pdb
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\obj\Debug\06NumberCalculations.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\06NumberCalculations\obj\Debug\06NumberCalculations.pdb

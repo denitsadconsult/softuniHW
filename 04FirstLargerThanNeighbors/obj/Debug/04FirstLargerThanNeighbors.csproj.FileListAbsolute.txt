@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\bin\Debug\04FirstLargerThanNeighbors.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\bin\Debug\04FirstLargerThanNeighbors.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\bin\Debug\04FirstLargerThanNeighbors.pdb
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\obj\Debug\04FirstLargerThanNeighbors.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\obj\Debug\04FirstLargerThanNeighbors.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\04FirstLargerThanNeighbors\obj\Debug\04FirstLargerThanNeighbors.pdb

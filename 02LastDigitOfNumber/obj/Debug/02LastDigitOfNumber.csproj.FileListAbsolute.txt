@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\bin\Debug\02LastDigitOfNumber.pdb
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.exe
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.pdb
+c:\users\user\documents\visual studio 2013\Projects\MethodsHW\02LastDigitOfNumber\obj\Debug\02LastDigitOfNumber.csprojResolveAssemblyReference.cache
